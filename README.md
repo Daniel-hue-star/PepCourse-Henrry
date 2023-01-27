@@ -1,2 +1,3 @@
-# PepCourse-Henrry
-Este es un repositorio de prueba del modulo dos del PepCourse Henry
+Daniel Jimenez
+este proyecto es una prueba de como crear una prueba de como crear un repositorio y clonarlo desde githab a mi escritorio 
+
